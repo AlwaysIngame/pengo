@@ -3,7 +3,7 @@
 Attempt at a clone of the arcade game Pengo. Made in High School Grade 12.
 Uses the processing.py graphical library for python. https://processing.org/ \
 Install the processing editor on your computer, and use it to get python mode and the minim sound library. \
-This was made with Processing 3.x , it doesnt seem to work with anything later thant that.
+This was made with Processing 3.x , it doesnt seem to work with anything later than that.
 
 
 ## Usage
